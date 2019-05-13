@@ -1,0 +1,33 @@
+{
+  "name": "serialpromise",
+  "version": "1.0.0",
+  "description": "execute promises sequentialy",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RecepBirol/serialpromise.git"
+  },
+  "keywords": [
+    "promise",
+    "all",
+    "sequential",
+    "serial",
+    "promise"
+  ],
+  "author": "Recep Birol Gül",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RecepBirol/serialpromise/issues"
+  },
+  "homepage": "https://github.com/RecepBirol/serialpromise#readme"
+}
